@@ -1,0 +1,16 @@
+ch/unil/doplab/grocerystorewebsite/v1/database/MockDatabase$2$2.class
+ch/unil/doplab/grocerystorewebsite/v1/exceptions/DoesNotExistException.class
+ch/unil/doplab/grocerystorewebsite/v1/database/MockDatabase$2.class
+ch/unil/doplab/grocerystorewebsite/v1/database/MockDatabase$2$3.class
+ch/unil/doplab/grocerystorewebsite/v1/models/ShoppingCart.class
+ch/unil/doplab/grocerystorewebsite/v1/exceptions/AlreadyExistsException.class
+ch/unil/doplab/grocerystorewebsite/v1/controllers/UserController.class
+ch/unil/doplab/grocerystorewebsite/v1/controllers/FoodController.class
+ch/unil/doplab/grocerystorewebsite/v1/controllers/LoginController.class
+ch/unil/doplab/grocerystorewebsite/v1/models/Food.class
+ch/unil/doplab/grocerystorewebsite/v1/models/User.class
+ch/unil/doplab/grocerystorewebsite/v1/views/Main.class
+ch/unil/doplab/grocerystorewebsite/v1/database/MockDatabase$1.class
+ch/unil/doplab/grocerystorewebsite/v1/database/MockDatabase.class
+ch/unil/doplab/grocerystorewebsite/v1/exceptions/InsufficientBalanceException.class
+ch/unil/doplab/grocerystorewebsite/v1/database/MockDatabase$2$1.class
