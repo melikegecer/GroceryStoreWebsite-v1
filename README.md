@@ -1,4 +1,4 @@
-#Grocery Store Website (Evolutionary Project Series)
+# Grocery Store Website (Evolutionary Project Series)
 
 This is a four-phase project series developed for a Software Architectures course at the University of Lausanne. The repositories track the evolution of a monolithic e-commerce application into a distributed, service-oriented architecture, demonstrating competence in various software design patterns and implementation technologies.
 
